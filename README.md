@@ -26,7 +26,8 @@ You may NOT take liberties with the layout, but your creative license includes:
 
 ### Base Requirements
 
-  - Basic static site setup with `index.html` and `styles.css`
+  - Timebox yourself to one hour of work!
+  - Basic static site setup with `index.html` and `styles.css`, plus a screenshot of your work in a browser
   - Submit your work through a PR
 
 ---
